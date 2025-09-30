@@ -1,0 +1,5 @@
+python-dotenv
+pyyaml
+pandas
+facebook_business
+streamlit
